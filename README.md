@@ -1,5 +1,4 @@
-
-[![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
+<img src='https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.20230810122605597.svg'>
 
 - 👋 Hi, I’m @Elon10musk
 - 👀 I’m interested in ...
