@@ -1,6 +1,6 @@
 
-![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
-![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
+![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg&lable=MATLAB)
+
 - 👋 Hi, I’m @Elon10musk
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
