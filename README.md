@@ -1,4 +1,4 @@
-<img src='https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.20230810122605597.svg' style='height=2rem;width=0.5rem;'>
+<img src='https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.20230810122605597.svg' style='height:5%;width:5%;margin: 0%;'>
 
 - 👋 Hi, I’m @Elon10musk
 - 👀 I’m interested in ...
